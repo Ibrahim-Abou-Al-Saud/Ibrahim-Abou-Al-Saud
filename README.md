@@ -1,6 +1,16 @@
 # 💫 About Me:
 Hi 👋<br> I'm a Software developer. <br>Works with most modern frameworks/stacks. <br>Fav. languages: Java, JavaScript, Typescript, HTML, CSS, SQL.<br>
+<h1 align="center">Hi, I'm Ibrahim Abou Al-Saud</h1>
+<h2 align="center">Software Engineer | Java | Typescript</h2>
+<p align="center">Java, Javascript, Typescript, HTML, CSS, SQL</p>
+<br>
 
+<p>
+  <a href="https://drive.google.com/file/d/1pTA6chrtrHOg5HRHkzKATJj8w1Nc64jG/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+  <a href="https://ibrahim-abou-al-saud.github.io/About-Me/">
+    <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ibrahim_aboalsaud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ibrahim.aboalsaod.1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-abou-al-saud-89264a224/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/iaboalsoud/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahimaboalsoud1@gmail.com) 
