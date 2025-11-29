@@ -48,7 +48,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ibrahim-Abou-Al-Saud&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Snake Animation](https://github.com/Ibrahim-Abou-Al-Saud/Ibrahim-Abou-Al-Saud/blob/output/snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Ibrahim-Abou-Al-Saud&icon=0&color=0)](https://visitcount.itsvg.in)
 
