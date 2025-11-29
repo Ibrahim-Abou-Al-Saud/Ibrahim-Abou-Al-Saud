@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-abou-al-saud-89264a224/">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
   <a href="https://discord.gg/ibrahim_aboalsaud">
-    <img src="https://e7.pngegg.com/pngimages/5/969/png-clipart-discord-round-logo-tech-companies.png" height="50"/></a> &nbsp;
+    <img src="https://e1.pngegg.com/pngimages/373/977/png-clipart-discord-for-macos-white-and-blue-logo-art.png" height="50"/></a> &nbsp;
    <a href="https://codeforces.com/profile/Ibrahim_Aboals3ood">
      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
   <a href="https://leetcode.com/u/Ibrahim_Aboals3ood/">
