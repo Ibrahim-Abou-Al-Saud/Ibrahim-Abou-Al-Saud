@@ -1,5 +1,3 @@
-# 💫 About Me:
-Hi 👋<br> I'm a Software developer. <br>Works with most modern frameworks/stacks. <br>Fav. languages: Java, JavaScript, Typescript, HTML, CSS, SQL.<br>
 <h1 align="center">Hi, I'm Ibrahim Abou Al-Saud</h1>
 <h2 align="center">Software Engineer | Java | Typescript</h2>
 <p align="center">Java, Javascript, Typescript, HTML, CSS, SQL</p>
