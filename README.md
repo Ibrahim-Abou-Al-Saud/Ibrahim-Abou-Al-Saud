@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ibrahim Abou Al-Saud</h1>
-<h2 align="center">Software Engineer | Java | Typescript</h2>
+<h2 align="center">Software Development Engineer | Java | Typescript</h2>
 <p align="center">Java, Javascript, Typescript, HTML, CSS, SQL</p>
 <br>
 
